@@ -1,9 +1,3 @@
-## Preview
-
-<p align="center">
-  <img src="https://github.com/ikhwanfadhilah19/hukumohm/blob/main/preview.jpg" width="300px" height="300px"/>
-</p>
-
 ## Installation
 
 Use Netbeans IDE application if you want to try this code.\
