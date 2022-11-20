@@ -13,7 +13,7 @@ Where is the website to download Netbeans IDE? [click here](https://netbeans-ide
 
 ## For Feedback/Problem
 
-DM Me on Instagram [Here](https://www.instagram.com/dooo_dott/)
+DM me on Instagram [Here](https://www.instagram.com/dooo_dott/)
 
 ## License
 
