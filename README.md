@@ -3,7 +3,7 @@
 Use Netbeans IDE application if you want to try this code.\
 Where is the website to download Netbeans IDE? [click here](https://netbeans-ide.informer.com/download/#downloading)
 
-## How To Use🔧
+## How To Use🔨
     1. Download and install Netbeans
     2. Create new project
     3. Clone this repository and transfer it to your netbeans project
