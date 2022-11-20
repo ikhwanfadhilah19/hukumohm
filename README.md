@@ -11,7 +11,7 @@ Where is the website to download Netbeans IDE? [click here](https://netbeans-ide
     5. If this code is working and not having problem, press shift + f11 to clean and build this project into the .jar extension
     6. Last, try your project in file explorer/documents/NetBeansProjects/(your names project)/dist/here
 
-## For Feedback💢
+## For Feedback/Problem💢
 
 DM Me on Instagram [Here](https://www.instagram.com/dooo_dott/)
 
