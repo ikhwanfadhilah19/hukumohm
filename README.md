@@ -1,7 +1,7 @@
 ## Preview
 
 <p align="center">
-  <img src=""/>
+  <img src="https://github.com/ikhwanfadhilah19/hukumohm/blob/main/preview.jpg"/>
 </p>
 
 ## Installation
