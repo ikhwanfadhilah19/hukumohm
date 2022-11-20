@@ -1,9 +1,6 @@
 ## Author✨
+
 Ikhwan Fadhilah
-
-## About💨
-
-Program Menghitung Hukum Ohm Java with GUI
 
 ## For Feedback💢
 
