@@ -3,7 +3,7 @@ Ikhwan Fadhilah
 
 ## About💨
 
-Codingan Menghitung Hukum Ohm Java with GUI
+Program Menghitung Hukum Ohm Java with GUI
 
 ## For Feedback💢
 
